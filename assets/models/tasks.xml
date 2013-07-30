@@ -1,0 +1,17 @@
+<root>
+  <header category="General">
+    <task title="Smile at 5 people" category="Category 1"/>
+    <task title="Pick up litter" category="Category 1"/>
+  </header>
+  <header category="Care">
+    <task title="Buy someone a cup of coffee" category="Category 2"/>
+    <task title="Hug a stranger" category="Category 2"/>
+    <task title="Compliment someone on their outfit" category="Category 2"/>
+    <task title="Endorse someone on LinkedIn" category="Category 2"/>
+  </header>
+  <header category="Cool one">
+    <task title="Say thank you to everyone" category="Category 3"/>
+    <task title="Recognise someone with a tip" category="Category 3"/>
+    <task title="Recommend your favourite book" category="Category 3"/>
+  </header>
+</root>

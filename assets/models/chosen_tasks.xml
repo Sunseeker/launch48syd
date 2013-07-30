@@ -1,0 +1,8 @@
+<root>
+    <task title="Recommend an album to someone" category="General"/>
+    <task title="Cook a meal for a friend/loved one" category="General"/>
+    <task title="Give a hug to a person next to you" category="General"/>
+    <task title="Help elderly across the road" category="Care"/>
+    <task title="Send a card/message overseas" category="General"/>
+    <task title="Assit local kids sport teams for one evening" category="Kids"/>
+</root>

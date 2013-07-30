@@ -1,0 +1,10 @@
+translations/*.ts
+arm/
+x86
+.settings/
+*~
+*/.DS_Store
+*.DS_Store
+config.pri
+.device
+assets/.assets.index
